@@ -1,0 +1,1 @@
+export { default as AstronautList } from './List'
