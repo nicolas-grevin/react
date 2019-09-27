@@ -1,5 +1,4 @@
 name: Github ci
-
 on: [push]
 
 jobs:
